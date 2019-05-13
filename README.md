@@ -1,11 +1,11 @@
 # Le site dont vous êtes le héros
 
-URL du site : http://votre-url-ici.com
+URL du site : https://laughing-torvalds-3e6f52.netlify.com/
 
 ### Groupe
 
-- Prénom & Nom
-- Prénom & Nom
+- Marc Verriere
+- Ryan Fennane
 
 ## Prologue
 
